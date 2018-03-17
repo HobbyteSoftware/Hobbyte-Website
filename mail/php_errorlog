@@ -1,0 +1,1 @@
+[25-Oct-2017 15:58:21 CST6CDT] PHP Parse error:  syntax error, unexpected '"Reply-To: webmaster@example.c' (T_CONSTANT_ENCAPSED_STRING) in /home/technise/public_html/hobbyte.gr/Hobbyte Website/mail/contact_me.php on line 24
